@@ -1,5 +1,5 @@
 /*
-🧩 Problem 2: Roll Two Dice and Show the Total
+🧩 Problem : Roll Two Dice and Show the Total
 
 Question:
 Simulate rolling two dice. Generate two random numbers between 1 and 6, and return their sum.
