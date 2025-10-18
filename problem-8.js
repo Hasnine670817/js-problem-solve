@@ -1,5 +1,5 @@
 /*
-🧩 Problem 4: Generate a 6-digit OTP
+🧩 Problem 8: Generate a 6-digit OTP
 
 Question:
 Write a function that generates a random 6-digit OTP (like 345678).
